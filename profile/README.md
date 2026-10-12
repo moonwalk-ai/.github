@@ -9,7 +9,6 @@ habits, your team's work, the news you follow. Ask the AI for one and it lays
 out the charts and lists, wires in your data, and keeps everything up to date
 on its own.
 
-**Try it:** https://moonwalk.now
 **Learn more:** https://about.moonwalk.now
 
 ## Built to stay current
